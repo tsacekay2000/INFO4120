@@ -6,7 +6,7 @@ st.sidebar.markdown("# Racer Page 🎈")
 
 st.write(' # Mariokart *Stats Website*')
 
-df_racer = pd.read_csv('steamlit_template/data/racer_stats.csv')
+df_racer = pd.read_csv('streamlit_template/data/racer_stats.csv')
 
 # st.write(df_racer)
 
